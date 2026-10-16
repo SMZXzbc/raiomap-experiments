@@ -1,0 +1,3 @@
+﻿hypothesis,alternative_method,mother_mean_rho,bootstrap_95_ci
+H1,gradient_of_8x8_pg_cell_medians,0.13378558134610768,"[0.07094573247449337, 0.19341039656552547]"
+H2,gradient_of_8x8_nlos_fraction,0.04785527416799722,"[-0.03578738978784536, 0.13029863950073114]"
